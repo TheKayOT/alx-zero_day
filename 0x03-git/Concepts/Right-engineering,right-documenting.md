@@ -13,7 +13,7 @@ You will often hear it said that a developer doesn’t write code for a computer
     - Comments to describe your functions (even more so if your code is meant to be reused by other people): you may want to look into the syntaxes that are conventional in the language you’re using. There might be documentation generators using the comments if they’re input properly.
     - Comments inside functions: they should be short and descriptive enough that when a developer browses through the code reading only those comments, they understand what each step is, and the whole sequence of what happens.
 
-![Right Documenting Comments](../Images/Right_Documenting_Comments.png)
+![Right Documenting Comments](../Media/Right_Documenting_Comments.png)
 
 *This piece of code is part of the automated review system; it receives the results and saves them in the intranet’s database, after some processing. Since the code here manipulates data in a way that is hard to read back later, I had been especially explicit in the comments about what each bit is doing, without needing to read anything of the code. (I swear I didn’t edit anything for the sake of this screenshot!)*
 - **Names of functions and variables** should represent what they’re about without ambiguity. If it would be too long to explain for the size of a variable name, add a comment before the line where you created it, to explain what it is (the next developer, not understanding what it is, will naturally try to find where it was created to try to figure out where it comes from).
@@ -56,4 +56,4 @@ Here are a few nice links about over engineering:
 - [http://www.codesimplicity.com/post/what-is-overengineering/](https://www.codesimplicity.com/post/what-is-overengineering/)
 - [https://coderoom.wordpress.com/2010/06/23/criminal-overengineering/](https://coderoom.wordpress.com/2010/06/23/criminal-overengineering/) (has a technical bit around the beginning)
 
-Copyright © 2022 ALX, All rights reserved.
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

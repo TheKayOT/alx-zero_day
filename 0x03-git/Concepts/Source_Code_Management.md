@@ -29,7 +29,7 @@ I’ll put each specific wording between quotes. The same words may be used for 
 
 ## The lowdown on Git
 
-![Memorizing Six Git Commands: A Pracitcal Guide book](../Images/Memorizing_Six_Git_Commands%E2%80%94A_Practical_Guide.jpg)
+![Memorizing Six Git Commands: A Pracitcal Guide book](../Media/Memorizing_Six_Git_Commands%E2%80%94A_Practical_Guide.jpg)
 
 A particularity about Git, is that it’s designed to be useable without a central repository (you can **pull** code from your friend’s computer, and **push** you work back there, for instance), but not many people use it that way. There is usually a central Git server that the whole team **pushes** code to and **pulls** code from; however, that explains why it is often referred as a “decentralized” system.
 
@@ -114,4 +114,4 @@ GitHub has many competitors, two of the main ones being GitLab and BitBucket (wh
 
 **All of your school projects must make proper use of Git, and must be pushed to your GitHub account.**
 
-Copyright © 2022 ALX, All rights reserved.
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

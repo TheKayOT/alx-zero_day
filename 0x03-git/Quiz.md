@@ -1,4 +1,5 @@
-# Question #0
+# Quiz questions
+## Question #0
 You have the following files in your project directory:
 ```
 julien@ubuntu:/tmp/git_project$ ls
@@ -15,8 +16,10 @@ You should learn what each of these commands would actually do if you were to ex
 ```
 
 
-# Question #1
+## Question #1
 What command can you use to see what changes have been staged, which haven’t, and which files aren’t being tracked by Git?
 - [ ] git init
 - [x] git status
 - [ ] git checkout
+
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

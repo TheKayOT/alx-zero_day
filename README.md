@@ -1,5 +1,5 @@
 # 0x03. Git
-Tags: `Git`, `Code versioning`, `Github`
+Tags: `Git` `Code versioning` `Github`
 <hr>
 By Guillaume
 <hr>
@@ -74,3 +74,4 @@ $ git add test
 $ git commit -m "Initial commit"
 $ git push origin main
 ```
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>

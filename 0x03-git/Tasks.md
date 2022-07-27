@@ -11,7 +11,7 @@ You can follow [this tutorial](https://docs.github.com/en/authentication/keeping
 
 Once it’s created, you should have a token that looks like this:
 
-![Token example](./Images/Token_Example.png)
+![Token example](./Media/Token_Example.png)
 
 
 ### Step 2 - Update your profile on the Intranet
@@ -19,7 +19,7 @@ Update your Intranet profile by adding your Github username [here](https://alx-i
 
 If it’s not done **the Checker won’t be able to correct your work**
 
-![Social presence](./Images/Social_Presence.png)
+![Social presence](./Media/Social_Presence.png)
 
 
 ### Step 3 - Create your first repository
@@ -29,13 +29,13 @@ Using the graphic interface on the [github website](https://github.com/), create
 - Public repo
 - No `README`, `.gitignore`, or license
 
-![Create a new repository](./Images/Create_a_New_Repository.png)
+![Create a new repository](./Media/Create_a_New_Repository.png)
 
 
 ### Step 4 - Open the sandbox
-On the intranet, just under the task, click on the button ![Get a sandbox](./Images/Get_a_Sandbox.png) and `run` to start the machine.
+On the intranet, just under the task, click on the button ![Get a sandbox](./Media/Get_a_Sandbox.png) and `run` to start the machine.
 
-Once the container is started, click on ![Webterm](./Images/Webterm.png) to open a shell where you can start work from.
+Once the container is started, click on ![Webterm](./Media/Webterm.png) to open a shell where you can start work from.
 
 
 ### Step 5 - Clone your repository
@@ -208,4 +208,4 @@ Create a `.gitignore` file and define a rule to never push `~` files (generated 
 - Directory: `0x03-git`
 - File: `.gitignore`
 
-Copyright © 2022 ALX, All rights reserved.
+<p align="right"><sub>Copyright © 2022 ALX, All rights reserved.</sub></p>
